@@ -1,0 +1,77 @@
+.text-color-dark{
+	color: #333333;
+}
+.text-color-light{
+	color: white;
+}
+.brand-color-01{
+	background: black;
+}
+.brand-color-02{
+	background: #EBEBEB;
+}
+.brand-color-03{
+background: white;
+}
+h4{
+	padding:15px;
+	margin: 0;
+}
+body{
+	background: url("http://www.pixeden.com/media/k2/galleries/275/002-blurred-background-texture-vol2.jpg") no-repeat;
+	background-size:  100vw 100vh;
+	 margin: 0px;
+
+}
+header{
+	height: 70px;
+	padding: 20px;
+	box-sizing: border-box;
+
+}
+input{
+	height: 30px;
+}
+nav{
+	position: relative;
+}
+.container {
+	width: 960px;
+	margin: 0 auto;
+}
+.search-box{
+float: right;
+
+}
+.search-box:after{
+  clear: both;
+  content: " ";
+  display: table;
+}
+.page-body{
+	background: rgba(0,0,0,0.3);
+}
+.notifications{
+	height: 35px;
+	margin: 20px 0;
+}
+.nav-section{
+	height: 155px;
+	background: black;
+	text-align: center;
+	overflow: hidden;
+	transform: translate(0,-100px);
+}
+.menu-hint{
+	padding: 10px 0;
+	width: 100%;
+	position: absolute;
+	bottom: 0;
+}
+.menu-hint p{
+	margin: 0;
+}
+.action-list{
+	margin: 0;
+	transform: translate(-100	);
+}
